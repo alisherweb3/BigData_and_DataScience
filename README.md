@@ -27,6 +27,12 @@ Suniy Intellekt
 
 3Vs*
 
+- Volume - katta hajmdagi ma'lumotlar to'plami paydo bo'lishi. - Pb, Zb
+- Velocity - Ma'lumotlar tezligi  oshishi - 5G, 6G - patch, real time
+- Variety - Ma'lumotlarni xilma-xilligi va turlari ko'payishi - mobile, smm, trafik, IoT, smart-home,...
+
+
+
 - Volume ( obyom ) - Gb, Tb, Pb
 - velocity ( skorost ) - patch, real time
 - variety ( raznobraziya ) more data with mobile , smm, trafik
@@ -35,6 +41,20 @@ Suniy Intellekt
 
 
 ### Work with Big Data
+
+1) Ma'limotlarni yig'ish -> Yandex metrics, Google metrics, IoT, smart watch, statistika, report
+2) Ma'lumotlarni boshqa ko'rinishga olib kelish -> Integratsiyalash, Analyst va Report tayyorlash
+3) Ma'lumotlarni Saqlash -> Excel, --> Amazon, SQL, MySql, --> Data Warehouse (Oracle, AmazonRedShift, MarkLogic) --> Data Lakes (Azure, Hadoop, Google Cloud, S3 )
+
+4) Ma'lumotlarni tahlil qilish -> Mathematical method -> regression, correlation, disperce
+
+Machine Learning -> Tree, KNN, SVM, Random Forest, Adboost, Neuron
+
+5) Xulosalar qurish va tavsiyalar berish
+
+
+# ML alogritmlari
+
 
 1) Sbor Dannix ---> Yandex metriki, google metriki, IoT, smart watch,
 2) Pereobrabotka dannix -> intergratsiya and ....
